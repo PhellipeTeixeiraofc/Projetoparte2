@@ -1,0 +1,5 @@
+Falta
+ 
+1 - Implementar menu
+3 - Implementar animação de movimento
+4 - Implementar animação de morte e vitória
